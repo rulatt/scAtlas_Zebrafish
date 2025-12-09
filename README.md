@@ -1,4 +1,4 @@
-# scAtlas_Zebrafish
+# Single-cell Atlas Zebrafish
 
 This is a Shiny app for the Zebrafish immune single-cell atlas from:
 
