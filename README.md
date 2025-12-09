@@ -17,4 +17,4 @@ To run the Shiny app, use the following commands:
 runApp()
 </pre>
 
-The Shiny App is also available online at https://scrna-analysis-zebrafish.shinyapps.io/scatlas/
+The Shiny app is also available online at https://scrna-analysis-zebrafish.shinyapps.io/scatlas/
